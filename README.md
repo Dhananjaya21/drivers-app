@@ -1,6 +1,8 @@
 # drivers_app
 
-This is Drivers app project
+This is Drivers app 
+
+this is the drivers app for my university project for creating a bus ticket booking system.
 
 ## Getting Started
 
